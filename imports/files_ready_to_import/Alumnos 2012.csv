@@ -1,0 +1,418 @@
+cod_mineduc,nombres_alumnos,apellidos_alumnos,fecha_nacimiento,genero,edad,dpi,tel_casa,cell,direccion_alumnos,estatus_mineduc,categoria,fecha_enrrolled,estatus_grd_anterior,es_nuevo_ingreso,id_a_grados,id_a_secciones,id_a_carreras,id_a_establecimientos
+0,Jonathan Josué,Alfaro Tecun,07/12/1995,M,,,,,,,,15/09/2011,,,1,19,1,2
+0,Marcelino Alexander,Alvarez Herrera,08/12/1995,M,,,,,,,,16/09/2011,,,1,19,1,2
+0,Luis Gerardo,Andres Rafael,09/12/1995,M,,,,,,,,17/09/2011,,,1,19,1,2
+0,kevin Abimael,Barrios Mazariegos,10/12/1995,M,,,,,,,,18/09/2011,,,1,19,1,2
+0,Carlos Eduardo,Barrios Perez,11/12/1995,M,,,,,,,,19/09/2011,,,1,19,1,2
+0,Brayner Anderson,Batres López,12/12/1995,M,,,,,,,,20/09/2011,,,1,19,1,2
+0,Melvin Estuardo,Boror Sajvin,13/12/1995,M,,,,,,,,21/09/2011,,,1,19,1,2
+0,Roxana Martina,Cahuec Ruiz,14/12/1995,F,,,,,,,,22/09/2011,,,1,19,1,2
+0,Sandra Patricia,Canel Méndez,15/12/1995,F,,,,,,,,23/09/2011,,,1,19,1,2
+0,Edilcar Alfredo,Cardona De la cruz,16/12/1995,M,,,,,,,,24/09/2011,,,1,19,1,2
+0,William  Estuardo,Castañeda de la Cruz,17/12/1995,M,,,,,,,,25/09/2011,,,1,19,1,2
+0,Katherine Fabiola,Castañeda Ordoñez,18/12/1995,F,,,,,,,,26/09/2011,,,1,19,1,2
+0,Luis Fernando,Castañon Sep,19/12/1995,M,,,,,,,,27/09/2011,,,1,19,1,2
+0,Keneth Ricardo,Chuc Aguilar,20/12/1995,M,,,,,,,,28/09/2011,,,1,19,1,2
+0,Julissa Paola,Escobar Ariaga,21/12/1995,F,,,,,,,,29/09/2011,,,1,19,1,2
+0,Rosa Andrea,Girón Pérez,22/12/1995,F,,,,,,,,30/09/2011,,,1,19,1,2
+0,Julio Isaias,Gómez Gamarro,23/12/1995,M,,,,,,,,01/10/2011,,,1,19,1,2
+0,Marvin Jose,Gomez Mazariegos,24/12/1995,M,,,,,,,,02/10/2011,,,1,19,1,2
+0,Esvin Otoniel,Gonzales Trinidad,25/12/1995,M,,,,,,,,03/10/2011,,,1,19,1,2
+0,Jonathan Isaías,Gramajo Alvizures,26/12/1995,M,,,,,,,,04/10/2011,,,1,19,1,2
+0,Melani Yanira,Guamuch Vasquez,27/12/1995,F,,,,,,,,05/10/2011,,,1,19,1,2
+0,Brian Gildaberto,Hernández Arreaga,28/12/1995,M,,,,,,,,06/10/2011,,,1,19,1,2
+0,Gilmer Isaías,Juárez,29/12/1995,M,,,,,,,,07/10/2011,,,1,19,1,2
+0,Kimberly Paola,Latin Guzmán,30/12/1995,F,,,,,,,,08/10/2011,,,1,19,1,2
+0,Brandon Esthiben,Lopez Carrillo,31/12/1995,M,,,,,,,,09/10/2011,,,1,19,1,2
+0,Abner Obed,Lopez Lopez,01/01/1996,M,,,,,,,,10/10/2011,,,1,19,1,2
+0,Gabriela Guadalupe,Lopez Simon,02/01/1996,F,,,,,,,,11/10/2011,,,1,19,1,2
+0,Jonatan Alexander,Lorenzana Vasquez,03/01/1996,M,,,,,,,,12/10/2011,,,1,19,1,2
+0,Katein Yajaira,Maritinez Arriaga,04/01/1996,F,,,,,,,,13/10/2011,,,1,19,1,2
+0,Jairo Samuel,Marquez ajanel,05/01/1996,M,,,,,,,,14/10/2011,,,1,19,1,2
+0,Junior Vicente,Melendez Ramos,06/01/1996,M,,,,,,,,15/10/2011,,,1,19,1,2
+0,Osman Geovany,Mendez Cua,07/01/1996,M,,,,,,,,16/10/2011,,,1,19,1,2
+0,Evelin Yasmin,Adrian Maldonado,07/12/1995,F,,,,,,,,15/09/2011,,,1,20,1,2
+0,Jeiber Alejandro,Ajanel,08/12/1995,M,,,,,,,,16/09/2011,,,1,20,1,2
+0,Yoselyn  del Rosario,Alegria Valiente,09/12/1995,F,,,,,,,,17/09/2011,,,1,20,1,2
+0,Marlin Guadalupe,Alvarado Sinay,10/12/1995,F,,,,,,,,18/09/2011,,,1,20,1,2
+0,Francisco Josè,Anleu,11/12/1995,M,,,,,,,,19/09/2011,,,1,20,1,2
+0,Alvaro Roberto,Antonio Tocay,12/12/1995,M,,,,,,,,20/09/2011,,,1,20,1,2
+0,Olga Rocio,Argueta Espinoza,13/12/1995,F,,,,,,,,21/09/2011,,,1,20,1,2
+0,Lilian Adelina,Armira Chitay,14/12/1995,F,,,,,,,,22/09/2011,,,1,20,1,2
+0,Cindy Yasmin,Barrios Ordoñez,15/12/1995,F,,,,,,,,23/09/2011,,,1,20,1,2
+0,Irma Johanna,Boror Martinez,16/12/1995,F,,,,,,,,24/09/2011,,,1,20,1,2
+0,Arnold Josef,Boror Meda,17/12/1995,M,,,,,,,,25/09/2011,,,1,20,1,2
+0,Jason Rodeli,Camacho ortiz,18/12/1995,M,,,,,,,,26/09/2011,,,1,20,1,2
+0,Edwin Orlando,Canel Yoc,19/12/1995,M,,,,,,,,27/09/2011,,,1,20,1,2
+0,Ramiro Alverto,Cardona de la Cruz,20/12/1995,M,,,,,,,,28/09/2011,,,1,20,1,2
+0,Rosalina Isabel,Cruz Gómez,21/12/1995,F,,,,,,,,29/09/2011,,,1,20,1,2
+0,Gerson Aldair,Diaz Estrada,22/12/1995,M,,,,,,,,30/09/2011,,,1,20,1,2
+0,Katerin Sharlot,Diaz Gonzalez,23/12/1995,F,,,,,,,,01/10/2011,,,1,20,1,2
+0,Gladis Noemí,Domingo Trigueros,24/12/1995,F,,,,,,,,02/10/2011,,,1,20,1,2
+0,Kevin Daniel,Escobar Calderon,25/12/1995,M,,,,,,,,03/10/2011,,,1,20,1,2
+0,José Anibal,Estrada Salazar,26/12/1995,M,,,,,,,,04/10/2011,,,1,20,1,2
+0,Rocxana Noemí,Felipe Rojas,27/12/1995,F,,,,,,,,05/10/2011,,,1,20,1,2
+0,Jonathan Isaias,Gramajo Alvizurez,28/12/1995,M,,,,,,,,06/10/2011,,,1,20,1,2
+0,Denis Juventino,Guzman Mejia,29/12/1995,M,,,,,,,,07/10/2011,,,1,20,1,2
+0,Yoselin Maria José,Hernandez Osoy,30/12/1995,F,,,,,,,,08/10/2011,,,1,20,1,2
+0,Denni Danilo,Hernández,31/12/1995,M,,,,,,,,09/10/2011,,,1,20,1,2
+0,Heber Isaí,Ixcol Francisco,01/01/1996,M,,,,,,,,10/10/2011,,,1,20,1,2
+0,Joselin Jasmin,Jimenez Obeda,02/01/1996,F,,,,,,,,11/10/2011,,,1,20,1,2
+0,Jebndy Ester,Lemus Gonzalez,03/01/1996,M,,,,,,,,12/10/2011,,,1,20,1,2
+0,Gabriela Guadalupe,López Simón,04/01/1996,F,,,,,,,,13/10/2011,,,1,20,1,2
+0,Jairon Samuel,Márquez Ajánel,05/01/1996,M,,,,,,,,14/10/2011,,,1,20,1,2
+0,Jaime Ricardo,Montufar Castañeda,06/01/1996,M,,,,,,,,15/10/2011,,,1,20,1,2
+0,Richard Daniel,Muhún Hernandez,07/01/1996,M,,,,,,,,16/10/2011,,,1,20,1,2
+0,Maria Mercedes,Nuñez Vicente,08/01/1996,F,,,,,,,,17/10/2011,,,1,20,1,2
+0,Kevin Armando,Orozco Aceituno,09/01/1996,M,,,,,,,,18/10/2011,,,1,20,1,2
+0,Gerson Geovany,Orozco Mendez,10/01/1996,M,,,,,,,,19/10/2011,,,1,20,1,2
+0,Heidy Beatriz,Perez Garcia,11/01/1996,F,,,,,,,,20/10/2011,,,1,20,1,2
+0,Miriam Izabel,Ramírez Catalán,12/01/1996,F,,,,,,,,21/10/2011,,,1,20,1,2
+0,Jackeline Marleny,Ramirez Raymundo,13/01/1996,F,,,,,,,,22/10/2011,,,1,20,1,2
+0,Debora Liset,Reyes Mazariegos,14/01/1996,F,,,,,,,,23/10/2011,,,1,20,1,2
+0,Brallan Antonio ,Saban Castellanos,15/01/1996,M,,,,,,,,24/10/2011,,,1,20,1,2
+0,Jorge Mario,Salvatierra Aguilar,16/01/1996,M,,,,,,,,25/10/2011,,,1,20,1,2
+0,Walter Daniel,Sanchez Xaxcaco,17/01/1996,M,,,,,,,,26/10/2011,,,1,20,1,2
+0,Byron Daniel,Sanchez,18/01/1996,M,,,,,,,,27/10/2011,,,1,20,1,2
+0,Josue daniel,Valenzuela Santa Cruz,19/01/1996,M,,,,,,,,28/10/2011,,,1,20,1,2
+0,Melvin Asael,Velasquez Lopez,20/01/1996,M,,,,,,,,29/10/2011,,,1,20,1,2
+0,Edwin Rodolfo,Ventura Gonzalez,21/01/1996,M,,,,,,,,30/10/2011,,,1,20,1,2
+0,Irma Lisbeth,Aguilón Palma,07/12/1995,F,,,,,,,,15/09/2011,,,2,17,1,2
+0,Miguel Angel,Boror Tocay,08/12/1995,M,,,,,,,,16/09/2011,,,2,17,1,2
+0,Oscar Alfredo,Campos Marroquin,09/12/1995,M,,,,,,,,17/09/2011,,,2,17,1,2
+0,Mirna Alejandra,Canel Tobar,10/12/1995,F,,,,,,,,18/09/2011,,,2,17,1,2
+0,Eymi Liseth,Carrillo de Leon,11/12/1995,F,,,,,,,,19/09/2011,,,2,17,1,2
+0,José David,Castellanos Donis,12/12/1995,M,,,,,,,,20/09/2011,,,2,17,1,2
+0,Juan Leonel,Ceto Hernández,13/12/1995,M,,,,,,,,21/09/2011,,,2,17,1,2
+0,Rosa Angélica,Ceto Hernández,14/12/1995,F,,,,,,,,22/09/2011,,,2,17,1,2
+0,Dorcas Roxana,Coronado Sosa,15/12/1995,F,,,,,,,,23/09/2011,,,2,17,1,2
+0,Ingris Azucena,Cruz Salmerón,16/12/1995,F,,,,,,,,24/09/2011,,,2,17,1,2
+0,Jennifer Abigaíl,Gomez Romero,17/12/1995,F,,,,,,,,25/09/2011,,,2,17,1,2
+0,Andrea Edith,Hernandez Morales,18/12/1995,F,,,,,,,,26/09/2011,,,2,17,1,2
+0,Luis Alfonso,Hernandez Mux,19/12/1995,M,,,,,,,,27/09/2011,,,2,17,1,2
+0,Edgar Nicolas,Hernández,20/12/1995,M,,,,,,,,28/09/2011,,,2,17,1,2
+0,Jaqueline Gabriela,Ixcoy Farfán,21/12/1995,F,,,,,,,,29/09/2011,,,2,17,1,2
+0,Josselin Elizabeth,Juaréz Rodas,22/12/1995,F,,,,,,,,30/09/2011,,,2,17,1,2
+0,Edson Eduardo,Jumique Hernández,23/12/1995,M,,,,,,,,01/10/2011,,,2,17,1,2
+0,Aura Ninette,Laines López,24/12/1995,F,,,,,,,,02/10/2011,,,2,17,1,2
+0,Williams Estuardo,López Ramírez,25/12/1995,M,,,,,,,,03/10/2011,,,2,17,1,2
+0,Kimberly Viviana ,López Vásquez,26/12/1995,F,,,,,,,,04/10/2011,,,2,17,1,2
+0,Andy Leonel,Marroquin Castro,27/12/1995,M,,,,,,,,05/10/2011,,,2,17,1,2
+0,Joselin Esther,Medina Batres,28/12/1995,F,,,,,,,,06/10/2011,,,2,17,1,2
+0,Diego Alexander,Mejía Vicente,29/12/1995,M,,,,,,,,07/10/2011,,,2,17,1,2
+0,Walfred Ivan,Méndez Garcia,30/12/1995,M,,,,,,,,08/10/2011,,,2,17,1,2
+0,Angela Paola,Méndez,31/12/1995,F,,,,,,,,09/10/2011,,,2,17,1,2
+0,Brandon Israel,Monterrroso Ariza,01/01/1996,M,,,,,,,,10/10/2011,,,2,17,1,2
+0,Dylan Emanuel,Pérez Vásquez,02/01/1996,M,,,,,,,,11/10/2011,,,2,17,1,2
+0,Linda Madelin Fabiola,Quelex Sep,03/01/1996,F,,,,,,,,12/10/2011,,,2,17,1,2
+0,María Celeste,Riquiac Ramírez,04/01/1996,F,,,,,,,,13/10/2011,,,2,17,1,2
+0,Jose Francisco,Trinidad Gomez,05/01/1996,M,,,,,,,,14/10/2011,,,2,17,1,2
+0,Teresa de Jesús,Boror Tocay,07/12/1995,F,,,,,,,,15/09/2011,,,2,18,1,2
+0,Edilson Noel,Cardona Flores,08/12/1995,M,,,,,,,,16/09/2011,,,2,18,1,2
+0,Estela,Cardona Montenegro,09/12/1995,F,,,,,,,,17/09/2011,,,2,18,1,2
+0,Carlos Edy,Chacón Matínez,10/12/1995,M,,,,,,,,18/09/2011,,,2,18,1,2
+0,Jackelin Mishell,Dávila Guzmán,11/12/1995,F,,,,,,,,19/09/2011,,,2,18,1,2
+0,Katerin Marleni,Díaz Santos,12/12/1995,F,,,,,,,,20/09/2011,,,2,18,1,2
+0,Marcos Estuardo,Flores Chan,13/12/1995,M,,,,,,,,21/09/2011,,,2,18,1,2
+0,Marvin Rigoberto,Gameros López,14/12/1995,M,,,,,,,,22/09/2011,,,2,18,1,2
+0,Emma Betzabeth,Gantes Morán,15/12/1995,F,,,,,,,,23/09/2011,,,2,18,1,2
+0,Jessica Carolina,Godínez Quino,16/12/1995,F,,,,,,,,24/09/2011,,,2,18,1,2
+0,Joseline Araceli,Gómez Romero,17/12/1995,F,,,,,,,,25/09/2011,,,2,18,1,2
+0,Alisson Yaneth,González Vasquez,18/12/1995,F,,,,,,,,26/09/2011,,,2,18,1,2
+0,Kevin Emmanuel,Jiménez Schula,19/12/1995,M,,,,,,,,27/09/2011,,,2,18,1,2
+0,Yiannis Alexander Benito,Larios Sanun,20/12/1995,M,,,,,,,,28/09/2011,,,2,18,1,2
+0,Brandon Miguel,Lemus Martínez,21/12/1995,M,,,,,,,,29/09/2011,,,2,18,1,2
+0,Sandra Elizabeth,López Cuyuch,22/12/1995,F,,,,,,,,30/09/2011,,,2,18,1,2
+0,Gabriela Judith,López Díaz,23/12/1995,F,,,,,,,,01/10/2011,,,2,18,1,2
+0,Joseline Maritza,López Vásquez,24/12/1995,F,,,,,,,,02/10/2011,,,2,18,1,2
+0,Blanca Yenenia,Marroquin Caracún,25/12/1995,F,,,,,,,,03/10/2011,,,2,18,1,2
+0,Kevin Rogelio,Meda Batz,26/12/1995,M,,,,,,,,04/10/2011,,,2,18,1,2
+0,Jorge Luis,Méndez García,27/12/1995,M,,,,,,,,05/10/2011,,,2,18,1,2
+0,Rubidia Judith,Méndez Jiménez,28/12/1995,F,,,,,,,,06/10/2011,,,2,18,1,2
+0,María Mishell,Ortíz Morales,29/12/1995,F,,,,,,,,07/10/2011,,,2,18,1,2
+0,Josué David,Pixtún García,30/12/1995,M,,,,,,,,08/10/2011,,,2,18,1,2
+0,Gladis Mariela,Reyes Garcia,31/12/1995,F,,,,,,,,09/10/2011,,,2,18,1,2
+0,Sara Ester,Riquiac Ramírez,01/01/1996,F,,,,,,,,10/10/2011,,,2,18,1,2
+0,Jonathan Adán,Sagastume Orellana,02/01/1996,M,,,,,,,,11/10/2011,,,2,18,1,2
+0,erick Ivan,Vicente Pastor,03/01/1996,M,,,,,,,,12/10/2011,,,2,18,1,2
+0,Glads  Araceli,Archila Rosales,07/12/1995,F,,,,,,,,15/09/2011,,,6,26,2,2
+0,Evelin ,Ayala Rivera,08/12/1995,F,,,,,,,,16/09/2011,,,6,26,2,2
+0,Ballolet,Banegas Pacheco,09/12/1995,F,,,,,,,,17/09/2011,,,6,26,2,2
+0,Katerine Fabiola,Catañeda Ordoñez,10/12/1995,F,,,,,,,,18/09/2011,,,6,26,2,2
+0,Josseline Carolina,Chajchal  Melgar ,11/12/1995,F,,,,,,,,19/09/2011,,,6,26,2,2
+0,Rosmery Aracely,Chavez ,12/12/1995,F,,,,,,,,20/09/2011,,,6,26,2,2
+0,Carolyn Steffaní,García Batz,13/12/1995,F,,,,,,,,21/09/2011,,,6,26,2,2
+0,Elma Yanira,Garcia Sales,14/12/1995,F,,,,,,,,22/09/2011,,,6,26,2,2
+0,Kimberly Faviola ,Garcia Uluan,15/12/1995,F,,,,,,,,23/09/2011,,,6,26,2,2
+0,Ingri Rocxana,Gomez Lopez,16/12/1995,F,,,,,,,,24/09/2011,,,6,26,2,2
+0,Roxana Analí,González Muxín,17/12/1995,F,,,,,,,,25/09/2011,,,6,26,2,2
+0,Marilym Susely,Jimenez Ramirez,18/12/1995,F,,,,,,,,26/09/2011,,,6,26,2,2
+0,Brenda Lisbet,Lopez Gomez,19/12/1995,F,,,,,,,,27/09/2011,,,6,26,2,2
+0,Digna Marisol,Lopez Perez,20/12/1995,F,,,,,,,,28/09/2011,,,6,26,2,2
+0,Marelin Anabella,Lopez Rodirgue,21/12/1995,F,,,,,,,,29/09/2011,,,6,26,2,2
+0,Evelyn Roxana,Mejia Ramirez,22/12/1995,F,,,,,,,,30/09/2011,,,6,26,2,2
+0,Emili Pamela,Mercado,23/12/1995,F,,,,,,,,01/10/2011,,,6,26,2,2
+0,Sara Hailey,Montalvo Perez,24/12/1995,F,,,,,,,,02/10/2011,,,6,26,2,2
+0,Josselin yesenia,Morales Cardona,25/12/1995,F,,,,,,,,03/10/2011,,,6,26,2,2
+0,Ana Beatriz,Pablo Miranda,26/12/1995,F,,,,,,,,04/10/2011,,,6,26,2,2
+0,Lucia Beatriz,Patzan Ceto,27/12/1995,F,,,,,,,,05/10/2011,,,6,26,2,2
+0,Jesica Nohemy,Raxon Divas,28/12/1995,F,,,,,,,,06/10/2011,,,6,26,2,2
+0,Katherine Yamileth,Raxón Yoc,29/12/1995,F,,,,,,,,07/10/2011,,,6,26,2,2
+0,Magda Araceli,Reyes Aguare,30/12/1995,F,,,,,,,,08/10/2011,,,6,26,2,2
+0,Rosmery Marilú,Ríos Najarro,31/12/1995,F,,,,,,,,09/10/2011,,,6,26,2,2
+0,Joselyn Dayana,Santos Méndez,01/01/1996,F,,,,,,,,10/10/2011,,,6,26,2,2
+0,Yesica Paola,Santos Silvestre,02/01/1996,F,,,,,,,,11/10/2011,,,6,26,2,2
+0,Regina Mishel,Sunun Poncio,03/01/1996,F,,,,,,,,12/10/2011,,,6,26,2,2
+0,Cristy Michelle,Tahuico,04/01/1996,F,,,,,,,,13/10/2011,,,6,26,2,2
+0,Shiley Rubi,Tipol Duarte,05/01/1996,F,,,,,,,,14/10/2011,,,6,26,2,2
+0,Kimberly Abigail,Valle,06/01/1996,F,,,,,,,,15/10/2011,,,6,26,2,2
+0,Priscila Azucena,Zumeta Santos,07/01/1996,F,,,,,,,,16/10/2011,,,6,26,2,2
+0,Jocelin Judith,Catalán Ramos,07/12/1995,F,,,,,,,,15/09/2011,,,7,27,2,2
+0,Lisbeth Magalí,Chávez Garcia,08/12/1995,F,,,,,,,,16/09/2011,,,7,27,2,2
+0,Abi Magnolia,Estrada Leiva,09/12/1995,F,,,,,,,,17/09/2011,,,7,27,2,2
+0,Lessly Marlliny,Estrada López,10/12/1995,F,,,,,,,,18/09/2011,,,7,27,2,2
+0,Olga  Patricia,Gallardo López,11/12/1995,F,,,,,,,,19/09/2011,,,7,27,2,2
+0,Sandra Patricia,López Caal,12/12/1995,F,,,,,,,,20/09/2011,,,7,27,2,2
+0,Alba Nohemí,López Xiloj,13/12/1995,F,,,,,,,,21/09/2011,,,7,27,2,2
+0,Brenda Paola,Mach Cosiguá,14/12/1995,F,,,,,,,,22/09/2011,,,7,27,2,2
+0,Aura Raquel,Marroquín Cosmen,15/12/1995,F,,,,,,,,23/09/2011,,,7,27,2,2
+0,Ester Elízabeth,Martínez Alfaro,16/12/1995,F,,,,,,,,24/09/2011,,,7,27,2,2
+0,Mariela Lucia,Miranda Paz,17/12/1995,F,,,,,,,,25/09/2011,,,7,27,2,2
+0,Jeimi Aidé,Ordoñez Duarte,18/12/1995,F,,,,,,,,26/09/2011,,,7,27,2,2
+0,Darlyn Brigette,Paz Duarte,19/12/1995,F,,,,,,,,27/09/2011,,,7,27,2,2
+0,Kimberly Jazmin,Pérez Jacobo,20/12/1995,F,,,,,,,,28/09/2011,,,7,27,2,2
+0,Ckaren Abigail,Pú Carrera,21/12/1995,F,,,,,,,,29/09/2011,,,7,27,2,2
+0,Nataly Julissa,Rafael Pérez,22/12/1995,F,,,,,,,,30/09/2011,,,7,27,2,2
+0,Damariss Rocxana,Ramírez Beltran,23/12/1995,F,,,,,,,,01/10/2011,,,7,27,2,2
+0,Glendy Liseth,Ramírez Pérez,24/12/1995,F,,,,,,,,02/10/2011,,,7,27,2,2
+0,Mirna Suleyda,Santa Cruz Contreras,25/12/1995,F,,,,,,,,03/10/2011,,,7,27,2,2
+0,Lidia Alejandra Mayté,Tizón Ortíz,26/12/1995,F,,,,,,,,04/10/2011,,,7,27,2,2
+0,Tania Katherine,Alvarado Iquité,07/12/1995,F,,,,,,,,15/09/2011,,,8,28,2,2
+0,xAstrid Carolina,Barillas Arevalo,08/12/1995,F,,,,,,,,16/09/2011,,,8,28,2,2
+0,Brenda Jeannette,Cotzajay Yoc,09/12/1995,F,,,,,,,,17/09/2011,,,8,28,2,2
+0,Verónica Azucena,Chávez,10/12/1995,F,,,,,,,,18/09/2011,,,8,28,2,2
+0,Bárbara Marisol,Díaz Toledo,11/12/1995,F,,,,,,,,19/09/2011,,,8,28,2,2
+0,Ayra Martha María,García Alvarado,12/12/1995,F,,,,,,,,20/09/2011,,,8,28,2,2
+0,Sandra Elizabeth,López Ramírez,13/12/1995,F,,,,,,,,21/09/2011,,,8,28,2,2
+0,Sindy Karina,Lorenzo Yoc,14/12/1995,F,,,,,,,,22/09/2011,,,8,28,2,2
+0,Carla Nohemi,Martínez Martínez,15/12/1995,F,,,,,,,,23/09/2011,,,8,28,2,2
+0,Cristina,Noj Pirir,16/12/1995,F,,,,,,,,24/09/2011,,,8,28,2,2
+0,Glendy Lissett,Pineda Villatoro,17/12/1995,F,,,,,,,,25/09/2011,,,8,28,2,2
+0,Ana Patricia,Ramírez Hernández,18/12/1995,F,,,,,,,,26/09/2011,,,8,28,2,2
+0,Yessica Liseth ,Sical Valdez,19/12/1995,F,,,,,,,,27/09/2011,,,8,28,2,2
+0,Ingrid Roxana,Soch Tash,20/12/1995,F,,,,,,,,28/09/2011,,,8,28,2,2
+0,María Angelina,Yoc Patzán,21/12/1995,F,,,,,,,,29/09/2011,,,8,28,2,2
+0,Genger Ruth,Ajcot Ruiz,07/12/1995,F,,,,,,,,15/09/2011,,,3,21,3,2
+0,Silvia Verónica,Alvarez Chitay,08/12/1995,F,,,,,,,,16/09/2011,,,3,21,3,2
+0,Ludyn Antonio,Barrera Salazar,09/12/1995,M,,,,,,,,17/09/2011,,,3,21,3,2
+0,Ginger Ruth,Barrios Ajcot,10/12/1995,F,,,,,,,,18/09/2011,,,3,21,3,2
+0,Elba Judith,Borrayo Revolorio,11/12/1995,F,,,,,,,,19/09/2011,,,3,21,3,2
+0,Oscar Amilcar,Garcia Garcia,12/12/1995,M,,,,,,,,20/09/2011,,,3,21,3,2
+0,Natalí Cristina,González Perez,13/12/1995,F,,,,,,,,21/09/2011,,,3,21,3,2
+0,Luis Angel,González Ventura,14/12/1995,M,,,,,,,,22/09/2011,,,3,21,3,2
+0,Edgar Richard,Hernández Alvarado,15/12/1995,M,,,,,,,,23/09/2011,,,3,21,3,2
+0,Yaquelin Rosita,López Matzir,16/12/1995,F,,,,,,,,24/09/2011,,,3,21,3,2
+0,Jessica Andrea,López Vásquez,17/12/1995,F,,,,,,,,25/09/2011,,,3,21,3,2
+0,rebeca Merari,Lorenzana Solorzano,18/12/1995,F,,,,,,,,26/09/2011,,,3,21,3,2
+0,Bryan Emanuel,Lorenzo Say,19/12/1995,M,,,,,,,,27/09/2011,,,3,21,3,2
+0,Sheny Carolina,Manuel Sanchez,20/12/1995,F,,,,,,,,28/09/2011,,,3,21,3,2
+0,Evelin Lorena ,Oscal Zuñiga,21/12/1995,F,,,,,,,,29/09/2011,,,3,21,3,2
+0,Nanci Daniela,Pablo Miranda,22/12/1995,F,,,,,,,,30/09/2011,,,3,21,3,2
+0,Herman Humberto,Pacheco Veliz,23/12/1995,M,,,,,,,,01/10/2011,,,3,21,3,2
+0,Katherine Mishelle ,Paiz Estrada,24/12/1995,F,,,,,,,,02/10/2011,,,3,21,3,2
+0,adriana Isabel,Patzan Yoc,25/12/1995,F,,,,,,,,03/10/2011,,,3,21,3,2
+0,Abner Isaí,Pú Carrera,26/12/1995,M,,,,,,,,04/10/2011,,,3,21,3,2
+0,Dixi Ninette,Quixtan Revolorio,27/12/1995,F,,,,,,,,05/10/2011,,,3,21,3,2
+0,Alan Aratxón,Ramon Ordoñez,28/12/1995,M,,,,,,,,06/10/2011,,,3,21,3,2
+0,Kimberly Alejandra,Ramos Argueta,29/12/1995,F,,,,,,,,07/10/2011,,,3,21,3,2
+0,Brenda Lisbet,Recinos Morales,30/12/1995,F,,,,,,,,08/10/2011,,,3,21,3,2
+0,Carlos Manuel,Revolorio Marquez,31/12/1995,M,,,,,,,,09/10/2011,,,3,21,3,2
+0,Yordi Aldair,Reyes Arroyo,01/01/1996,M,,,,,,,,10/10/2011,,,3,21,3,2
+0,Andrea Elizabeth,Reyes Marroquin,02/01/1996,F,,,,,,,,11/10/2011,,,3,21,3,2
+0,Yoseline Yulisa,Reyes Marroquin,03/01/1996,F,,,,,,,,12/10/2011,,,3,21,3,2
+0,Randol Elizardo,Reyna Cipriano,04/01/1996,M,,,,,,,,13/10/2011,,,3,21,3,2
+0,Luz Marina,Rodríguez Ruano,05/01/1996,F,,,,,,,,14/10/2011,,,3,21,3,2
+0,William Orlando,Sanchez Bran,06/01/1996,M,,,,,,,,15/10/2011,,,3,21,3,2
+0,Walter Daniel,Sanchez Xaxcaco,07/01/1996,M,,,,,,,,16/10/2011,,,3,21,3,2
+0,Yeymi Nohemí,Sierra Gómez,08/01/1996,F,,,,,,,,17/10/2011,,,3,21,3,2
+0,diego Rolando,Tepén Huit,09/01/1996,M,,,,,,,,18/10/2011,,,3,21,3,2
+0,Brando Anibal,Torres Pérez,10/01/1996,M,,,,,,,,19/10/2011,,,3,21,3,2
+0,Heidi Pahola,Tuy López,11/01/1996,F,,,,,,,,20/10/2011,,,3,21,3,2
+0,Cindy Kely,Tzoc Sánchez,12/01/1996,F,,,,,,,,21/10/2011,,,3,21,3,2
+0,William Orlando,Urizar Carreto,13/01/1996,M,,,,,,,,22/10/2011,,,3,21,3,2
+0,Berta ,Uz Tiu,14/01/1996,F,,,,,,,,23/10/2011,,,3,21,3,2
+0,Zaida Yaneth,Vásquez Estrada,15/01/1996,F,,,,,,,,24/10/2011,,,3,21,3,2
+0,Mariana elizabeth,Vasquez ortíz,16/01/1996,F,,,,,,,,25/10/2011,,,3,21,3,2
+0,Brenda susana,Velásquez Tavico,17/01/1996,F,,,,,,,,26/10/2011,,,3,21,3,2
+0,Katherinne Johanna,Ventura,18/01/1996,F,,,,,,,,27/10/2011,,,3,21,3,2
+0,Sonia Catalina,vicente José,19/01/1996,F,,,,,,,,28/10/2011,,,3,21,3,2
+0,Sayda Ester,Yucuté Barrios,20/01/1996,F,,,,,,,,29/10/2011,,,3,21,3,2
+0,Mayra Alejandra,Abac Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,3,21,3,2
+0,Lucrecia,Alvarado Yenifer,08/12/1995,F,,,,,,,,16/09/2011,,,3,22,3,2
+0,Alvin Estiven,Alvarez Campos,09/12/1995,M,,,,,,,,17/09/2011,,,3,22,3,2
+0,Leslie Filomena,Ambrocio Pelico,10/12/1995,F,,,,,,,,18/09/2011,,,3,22,3,2
+0,gabriel Eduardo,Aquino Yoc,11/12/1995,M,,,,,,,,19/09/2011,,,3,22,3,2
+0,Nancy Paola ,Arevalo,12/12/1995,F,,,,,,,,20/09/2011,,,3,22,3,2
+0,Sindi Gabriela,Bámaca Gonzales,13/12/1995,F,,,,,,,,21/09/2011,,,3,22,3,2
+0,Brandon Daniel,Benito Guzmàn,14/12/1995,M,,,,,,,,22/09/2011,,,3,22,3,2
+0,Juan Adrian,Boch Bail,15/12/1995,M,,,,,,,,23/09/2011,,,3,22,3,2
+0,Edwin Antonio,Caceros Carrillo,16/12/1995,M,,,,,,,,24/09/2011,,,3,22,3,2
+0,Cindy Dallann,Cardòna Pules,17/12/1995,F,,,,,,,,25/09/2011,,,3,22,3,2
+0,Mario Alberto,Castañeda Ordoñez,18/12/1995,M,,,,,,,,26/09/2011,,,3,22,3,2
+0,Marleny Lisset,Cuyuch Barrera,19/12/1995,F,,,,,,,,27/09/2011,,,3,22,3,2
+0,Berta Alejandra,Chamale Juarez,20/12/1995,F,,,,,,,,28/09/2011,,,3,22,3,2
+0,Geidi Marisol,Diego Hernanadez,21/12/1995,F,,,,,,,,29/09/2011,,,3,22,3,2
+0,Sandra del Rosario,Diego Hernandez,22/12/1995,F,,,,,,,,30/09/2011,,,3,22,3,2
+0,Carlos Alejandro,Divàs Higueros,23/12/1995,M,,,,,,,,01/10/2011,,,3,22,3,2
+0,Berta Roxana,Esquivel Reynoso,24/12/1995,F,,,,,,,,02/10/2011,,,3,22,3,2
+0,Yeniffer Marivel,Garcìa Saban,25/12/1995,F,,,,,,,,03/10/2011,,,3,22,3,2
+0,Milvia Carolina,Gòmez Hernàndez,26/12/1995,F,,,,,,,,04/10/2011,,,3,22,3,2
+0,Cindy Elizabeth,Gonzàlez Guerra,27/12/1995,F,,,,,,,,05/10/2011,,,3,22,3,2
+0,Josué David,González Yoc,28/12/1995,M,,,,,,,,06/10/2011,,,3,22,3,2
+0,Dulce Maria,Guerra,29/12/1995,F,,,,,,,,07/10/2011,,,3,22,3,2
+0,Lincet Scarlett,Guevara Gòmez,30/12/1995,F,,,,,,,,08/10/2011,,,3,22,3,2
+0,Ana Luisa Rocxana,Hernandez,01/01/1996,F,,,,,,,,10/10/2011,,,3,22,3,2
+0,Marvin Rodolgo,Ixtecoc Mendòza,02/01/1996,M,,,,,,,,11/10/2011,,,3,22,3,2
+0,Romelia Josefina,Juarez Sajic,03/01/1996,F,,,,,,,,12/10/2011,,,3,22,3,2
+0,Kendy Verònica,Larios de León,04/01/1996,F,,,,,,,,13/10/2011,,,3,22,3,2
+0,Helen Marisol,Lazo Osorio,05/01/1996,F,,,,,,,,14/10/2011,,,3,22,3,2
+0,Jorge Antonio,Lemus,06/01/1996,M,,,,,,,,15/10/2011,,,3,22,3,2
+0,Mario Rolando ,Lopez Matzir,07/01/1996,M,,,,,,,,16/10/2011,,,3,22,3,2
+0,Antony Emanuel,López Morales,08/01/1996,M,,,,,,,,17/10/2011,,,3,22,3,2
+0,Jose Estuardo,Melgar Contreras,09/01/1996,M,,,,,,,,18/10/2011,,,3,22,3,2
+0,Daniel de Jesus,Méndez Lucero,10/01/1996,M,,,,,,,,19/10/2011,,,3,22,3,2
+0,Ana Lucia,Morales Barrios,11/01/1996,F,,,,,,,,20/10/2011,,,3,22,3,2
+0,Jorge Orlando,Oliva García,12/01/1996,M,,,,,,,,21/10/2011,,,3,22,3,2
+0,Joseph Wilfred,Oliva Jimenez,13/01/1996,M,,,,,,,,22/10/2011,,,3,22,3,2
+0,Joselyn Betzábe,Park Set,14/01/1996,F,,,,,,,,23/10/2011,,,3,22,3,2
+0,Kimberly Alejandra,Ramos Argueta,15/01/1996,F,,,,,,,,24/10/2011,,,3,22,3,2
+0,Brandon Iván,Reyes Villatoro,16/01/1996,M,,,,,,,,25/10/2011,,,3,22,3,2
+0,Jason Israel,Rodas Garcia,17/01/1996,M,,,,,,,,26/10/2011,,,3,22,3,2
+0,Joselin Antonieta,Rodas Pixtún,18/01/1996,F,,,,,,,,27/10/2011,,,3,22,3,2
+0,Arely Cristina,Rodriguez y Rodriguez,19/01/1996,F,,,,,,,,28/10/2011,,,3,22,3,2
+0,Jackeline Roxana,Urizar Suchite,20/01/1996,F,,,,,,,,29/10/2011,,,3,22,3,2
+0,Erick Fabian,Aguilar Godoy,07/12/1995,M,,,,,,,,15/09/2011,,,4,23,3,2
+0,Gloria Estefana,Alvarado Xot,08/12/1995,F,,,,,,,,16/09/2011,,,4,23,3,2
+0,Eva Elizabeth,Alvizurez Pixtun,09/12/1995,F,,,,,,,,17/09/2011,,,4,23,3,2
+0,Adner Antonio,Ambrocio Pelico,10/12/1995,M,,,,,,,,18/09/2011,,,4,23,3,2
+0,Soraida Lisseth,Bercián Vásquez,11/12/1995,F,,,,,,,,19/09/2011,,,4,23,3,2
+0,Mirzey Lorena,Borrayo Revolorio,12/12/1995,F,,,,,,,,20/09/2011,,,4,23,3,2
+0,Jaime Ottoniel,Cabrera Lemus,13/12/1995,M,,,,,,,,21/09/2011,,,4,23,3,2
+0,Marbin Daniel,Canel Pérez,14/12/1995,M,,,,,,,,22/09/2011,,,4,23,3,2
+0,Norma Amarilis,Cotzajay Yoc,15/12/1995,F,,,,,,,,23/09/2011,,,4,23,3,2
+0,Angelica Roxana,Dávila López,16/12/1995,F,,,,,,,,24/09/2011,,,4,23,3,2
+0,Secia Jemima,Del Cid Méndez,17/12/1995,F,,,,,,,,25/09/2011,,,4,23,3,2
+0,Juan José,Díaz Suruy,18/12/1995,M,,,,,,,,26/09/2011,,,4,23,3,2
+0,Wagner Abelardo,Dubón Méndez,19/12/1995,M,,,,,,,,27/09/2011,,,4,23,3,2
+0,Bielman Joel,Esteban Gameros,20/12/1995,M,,,,,,,,28/09/2011,,,4,23,3,2
+0,Hiedy Patricia,Estrada Patzán,21/12/1995,F,,,,,,,,29/09/2011,,,4,23,3,2
+0,Jorge Emanuel,Garcia Aguilar,22/12/1995,M,,,,,,,,30/09/2011,,,4,23,3,2
+0,Luis Adolfo,Garcia Aguilar,23/12/1995,M,,,,,,,,01/10/2011,,,4,23,3,2
+0,Juan Mauricio,González Gabriel,24/12/1995,M,,,,,,,,02/10/2011,,,4,23,3,2
+0,Kevin Emmanuel,López Hernández,25/12/1995,M,,,,,,,,03/10/2011,,,4,23,3,2
+0,Ingrid Yesenia,López Perez,26/12/1995,F,,,,,,,,04/10/2011,,,4,23,3,2
+0,Máriel Fabiola,Marroquin Pérez,27/12/1995,F,,,,,,,,05/10/2011,,,4,23,3,2
+0,Pablo Roberto,Morales Barrios,28/12/1995,M,,,,,,,,06/10/2011,,,4,23,3,2
+0,Mónica Teodora,Morales Vásquez,29/12/1995,F,,,,,,,,07/10/2011,,,4,23,3,2
+0,Alejandra Carolina,Moralez Garcia,30/12/1995,F,,,,,,,,08/10/2011,,,4,23,3,2
+0,Angel Estuardo,Muñoz Yoc,31/12/1995,M,,,,,,,,09/10/2011,,,4,23,3,2
+0,Marta Alicia,Oliva De Paz,01/01/1996,F,,,,,,,,10/10/2011,,,4,23,3,2
+0,Vidalia Esther,Osorio Xitumul,02/01/1996,F,,,,,,,,11/10/2011,,,4,23,3,2
+0,Edilma Lorena,Pablo Galicia,03/01/1996,F,,,,,,,,12/10/2011,,,4,23,3,2
+0,Jérlin Elisardo,Pérez Moreno,04/01/1996,M,,,,,,,,13/10/2011,,,4,23,3,2
+0,Jenifer Estefani,Ramirez Martinez,05/01/1996,F,,,,,,,,14/10/2011,,,4,23,3,2
+0,Jesús Alberto,Revolorio Galindo,06/01/1996,M,,,,,,,,15/10/2011,,,4,23,3,2
+0,Jhonathan Nectali,Sarceño Escobar,07/01/1996,M,,,,,,,,16/10/2011,,,4,23,3,2
+0,Miguel Angel,Sinay Caal,08/01/1996,M,,,,,,,,17/10/2011,,,4,23,3,2
+0,Mynor Manfredo,Soto Rosales,09/01/1996,M,,,,,,,,18/10/2011,,,4,23,3,2
+0,Cindy Katherine ,Vasquez Estrada,10/01/1996,F,,,,,,,,19/10/2011,,,4,23,3,2
+0,Ana Patricia,Vásquez Pérez,11/01/1996,F,,,,,,,,20/10/2011,,,4,23,3,2
+0,Débora Priscila,Ventura Huarcas,12/01/1996,F,,,,,,,,21/10/2011,,,4,23,3,2
+0,Marta Leticia,Zapeta Tipaz,13/01/1996,F,,,,,,,,22/10/2011,,,4,23,3,2
+0,Gladys Aracely,Ajuchan Ajuchan,14/01/1996,F,,,,,,,,23/10/2011,,,4,23,3,2
+0,Walter Antonio,Alvarez Linares,07/12/1995,M,,,,,,,,15/09/2011,,,4,24,3,2
+0,Alma Esmeralda,Arana Alquijay,07/12/1995,F,,,,,,,,16/09/2011,,,4,24,3,2
+0,Brandon Alexis,Arias Muralles,07/12/1995,M,,,,,,,,17/09/2011,,,4,24,3,2
+0,Marliz Analy,Avila Puac,07/12/1995,F,,,,,,,,18/09/2011,,,4,24,3,2
+0,Carolina,Bac Pérez,07/12/1995,F,,,,,,,,19/09/2011,,,4,24,3,2
+0,Fidelina Idalia,Cardona Zacarias,07/12/1995,F,,,,,,,,20/09/2011,,,4,24,3,2
+0,Kelly Yesenia,Carías,07/12/1995,F,,,,,,,,21/09/2011,,,4,24,3,2
+0,Nancy Aracely,Cirin Fajardo,07/12/1995,F,,,,,,,,22/09/2011,,,4,24,3,2
+0,Luis Alberto,Chicaj Pérez,07/12/1995,M,,,,,,,,23/09/2011,,,4,24,3,2
+0,David Abraham ,Choppen Sarceño,07/12/1995,M,,,,,,,,24/09/2011,,,4,24,3,2
+0,Darwin Noe,Domingo Aguilar,07/12/1995,M,,,,,,,,25/09/2011,,,4,24,3,2
+0,Wilson Leonel ,Dubon Pirir,07/12/1995,M,,,,,,,,26/09/2011,,,4,24,3,2
+0,Brayan Spencer,Garcia Rivera,07/12/1995,M,,,,,,,,27/09/2011,,,4,24,3,2
+0,Katherin Vanessa,Godoy Vasquez,07/12/1995,F,,,,,,,,28/09/2011,,,4,24,3,2
+0,Julio Cesar,Gómez Mejia,07/12/1995,M,,,,,,,,29/09/2011,,,4,24,3,2
+0,Fredy Alberto,González Bran,07/12/1995,M,,,,,,,,30/09/2011,,,4,24,3,2
+0,Kimberley Julissa,González Hernández,07/12/1995,F,,,,,,,,01/10/2011,,,4,24,3,2
+0,Edwin Rodolfo,Hernández Alvarez,07/12/1995,M,,,,,,,,02/10/2011,,,4,24,3,2
+0,Waffnia Eunice,Hernández Lopez,07/12/1995,F,,,,,,,,03/10/2011,,,4,24,3,2
+0,Evelyn Yoexana,Lòpez Miguel,07/12/1995,F,,,,,,,,04/10/2011,,,4,24,3,2
+0,Martha Lorena,Marroquin Caracun,07/12/1995,F,,,,,,,,05/10/2011,,,4,24,3,2
+0,Hector Estuardo,Marroquin Rodriguez,07/12/1995,M,,,,,,,,06/10/2011,,,4,24,3,2
+0,Adrian,Morales Maldonado,07/12/1995,M,,,,,,,,07/10/2011,,,4,24,3,2
+0,Miriam Lorena,Pacajoj Xúm,07/12/1995,F,,,,,,,,08/10/2011,,,4,24,3,2
+0,Claudia Verónica,Patzán Sicán,07/12/1995,F,,,,,,,,09/10/2011,,,4,24,3,2
+0,Jerson Josue,Pérez García,07/12/1995,M,,,,,,,,10/10/2011,,,4,24,3,2
+0,Fardy Mayén,Pérez Miranda,07/12/1995,M,,,,,,,,11/10/2011,,,4,24,3,2
+0,Geiman Giovanni,Pérez Tomás,07/12/1995,M,,,,,,,,12/10/2011,,,4,24,3,2
+0,Winder Mardoqueo,Pineda de León,07/12/1995,M,,,,,,,,13/10/2011,,,4,24,3,2
+0,Edwin Ardany ,Ramírez Chavez,07/12/1995,M,,,,,,,,14/10/2011,,,4,24,3,2
+0,Carolina Beatriz,Rivera Najarro,07/12/1995,F,,,,,,,,15/10/2011,,,4,24,3,2
+0,Jefri Alexander,Santos Alvarez,07/12/1995,M,,,,,,,,16/10/2011,,,4,24,3,2
+0,Dilian Amariliz,Sontay Vicente,07/12/1995,F,,,,,,,,17/10/2011,,,4,24,3,2
+0,Lorenzo,Tamup Pérez,07/12/1995,M,,,,,,,,18/10/2011,,,4,24,3,2
+0,Cecilia Esmeralda,Vásquez Perez,07/12/1995,F,,,,,,,,19/10/2011,,,4,24,3,2
+0,Jaqueline Alejandra,Vásquez Santiago,07/12/1995,F,,,,,,,,20/10/2011,,,4,24,3,2
+0,Mayrer Arely,Villegas López,07/12/1995,F,,,,,,,,21/10/2011,,,4,24,3,2
+0,Wendy Gabriela,Abac Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Wilmer Alejandro,Balcarcel Marroquin,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Katheryne Dayana,Barrios de León,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Mildred Samara,Carrillo López,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Kimberly Anally,Conde Silvestre,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Abner Jonathan,Chávez García,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Ana Patricia,Chavez García,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Julio Alfredo,Chávez,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Alma Lorena,Chicoj López,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Yaritza Sucely,Domingo Domingo,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Nely Fernanda,Elías Guite,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Eva Liliana,Fajardo Ajbal,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Kevin Orlando,Galicia Ralda,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Devin Enrique,Gálvez Florián,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Candy María de los Angeles,García García,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Claudia Elizabeth,Garcia Ruiz,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Gerson Ariel,Gómez Hernández,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Mishel Alejandra,Gómez Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Ruth Nohemy,Gomez Zapet,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Velvet Karina,Guevara Gómez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Angélica Judith,Guzmán Mejía,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Jorge Alexander,Lemus Rodas,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Alicia Maribel,López Ramírez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Maylin Noemi,Martínez Maz,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Sigrid Ludvinia ,Méndez Méndez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Jennifer Elena,Morales Barillas,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,José Francisco,Morales Márquez,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Alma Yanira,Morales Morales,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Katerin Alejandrina,Morales Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Elser Geovany,Morales Tubes,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Katherinne Patricia,Morales,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Luz María de Jesús,Patzán Bercian,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Ancelmo Ottoniel,Patzán Coz,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Mario Arnoldo de Jesús,Patzán Coz,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Iliana Eunice,Patzán Lancerio,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Katerin Escarlett,Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Leybi Mariza ,Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Elieser Leonel,Quiná Perén,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,María Abigaíl,Ramírez Godoy,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Sandra Arelis,Ramírez Pérez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Jonathan José,Ramirez Rodríguez,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Josue Isaias,Reyes Aguaré,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Julio Alejandro,Reyes Morataya,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Andrea Dulce Rocio,Rivera Mes,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Marco Antonio,Rodríguez Hernández,07/12/1995,M,,,,,,,,15/09/2011,,,5,25,3,2
+0,Maria Yolanda,Serech Par,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Nancy Fabiola,Sil Castillo,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Lesly Lissette ,Tezén Meléndez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
+0,Sandra Adalí,Torres Pelaez,07/12/1995,F,,,,,,,,15/09/2011,,,5,25,3,2
